@@ -1,0 +1,23 @@
+{
+  "name": "gmailautomate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithleshfantezie/Gmail-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mithleshfantezie/Gmail-Automation/issues"
+  },
+  "homepage": "https://github.com/mithleshfantezie/Gmail-Automation#readme",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
