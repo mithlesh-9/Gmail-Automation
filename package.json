@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js --email=test939339@gmail.com --search=from:me",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
