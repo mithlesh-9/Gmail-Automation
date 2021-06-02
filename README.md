@@ -35,7 +35,7 @@ Here's a video which will show the bot in action.
         const search = process.argv[3].replace('--search=', '');
 
     ```
-5. Start the server
+5. Start script
 ```javascript
 node index.js --email=YOUR EMAIL HERE --search=FILTER THE EMAILS BY SEARCH TERM
 ```
